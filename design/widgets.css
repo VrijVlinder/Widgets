@@ -1,0 +1,78 @@
+span.actionlink {
+color:#fff;
+cursor:pointer;
+font-size:x-small;
+}
+
+span.actionlink:hover {
+text-decoration:none;
+}
+#Panel .Box#YouTube iframe{
+	width:100%!important;
+}
+#Panel .Box#YouTube embed object{
+	width:100%!important;
+}
+table.gadget {
+background-position:0;
+background:transparent none!important;
+border-collapse:collapse;
+border:0;
+clear:none;
+float:none;
+font-family:arial,sans-serif;
+font-style:normal;
+font-variant:normal;
+height:auto;
+letter-spacing:normal;
+line-height:normal;
+text-indent:0;
+text-transform:none;
+top:auto;
+vertical-align:middle;
+white-space:normal;
+width:99.4%!important;
+word-spacing:normal;
+margin:0;
+padding:0;
+}
+
+table.gadget span.title a:hover,table.gadget span.title a:visited,table.gadget span.title a:active,table.gadget span.title {
+font-size:11px;
+color:#fff;
+}
+
+table.gadget span.powered a:hover,table.gadget span.powered a:visited,table.gadget span.powered a:active,table.gadget span.powered {
+font-size:10px;
+color:#00c;
+}
+table.gadget tbody tr td a,table.gadget tbody tr td span.powered{
+	display:none;
+}
+table.gadget tbody tr td div,table.gadget tbody tr td div div,table.gadget tbody tr td div div div ,table.gadget tbody tr td ,table.gadget tbody tr td div div div iframe{
+	background:transparent!important;
+	width:99.4%!important;
+}
+
+span.actionlink {
+color:#fff;
+cursor:pointer;
+font-size:x-small;
+}
+
+span.actionlink:hover {
+text-decoration:none;
+}
+table.gadget tbody tr td div img{
+	width:100%;
+	color:#ff0;
+}
+table.gadget tbody tr tr tr tr td{
+	height:0px;
+	color:#ff0;
+}
+
+body, td, div, span, p, a {
+font-family: arial,sans-serif;
+color:#fff!important;
+}
